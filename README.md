@@ -39,8 +39,13 @@ Pratique  Css#
 :anger:  apliquei cores a elementos HTML usando propriedades CSS;
 <br>
 :anger:  personalizei elementos específicos, como cabeçalhos, datas de publicação e botões, alterando suas cores de fundo e texto;
+<br>
 :anger:  apliquei seletores apropriados e propriedades de espaçamento para controlar a distância entre elementos e melhorar a legibilidade e o layout da página;
+<br>
 :anger:  apliquei estilos de fonte a diferentes elementos de texto em uma página usando CSS;
+<br>
 :anger:  criei efeitos visuais nos links de texto, como a mudança de cor ao passar o mouse sobre eles;
+<br>
 :anger:  apliquei cores de fundo em elementos de texto e seções específicas da página.
+<br>
  <hr>
